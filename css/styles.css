@@ -1,0 +1,18 @@
+body {
+  font-size: xx-large;
+  background-color: black;
+}
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+.timer {
+  display: flex;
+  justify-content: space-around;
+}
+.label {
+  color: chartreuse;
+}
+.value {
+  color: white;
+}
